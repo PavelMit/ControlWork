@@ -1,0 +1,15 @@
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.csproj.AssemblyReference.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.AssemblyInfoInputs.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.AssemblyInfo.cs
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.csproj.CoreCompileInputs.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/bin/Debug/net7.0/ControlWork
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/bin/Debug/net7.0/ControlWork.deps.json
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/bin/Debug/net7.0/ControlWork.runtimeconfig.json
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/bin/Debug/net7.0/ControlWork.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/bin/Debug/net7.0/ControlWork.pdb
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/refint/ControlWork.dll
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.pdb
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ControlWork.genruntimeconfig.cache
+/Users/pavelmitrofanov/Desktop/Coding/CodingGB/Control Work/ControlWork/obj/Debug/net7.0/ref/ControlWork.dll
